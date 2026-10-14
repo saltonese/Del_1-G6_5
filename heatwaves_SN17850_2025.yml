@@ -1,0 +1,10 @@
+staion: SN17850
+year: 2025
+thershold_celsius: 27.0
+min_consecutive_days: 5
+number_of_heatwaves: 1
+heatvaves:
+- start: 2025-07-16
+  end: 2025-07-22
+  lenght_days: 7
+  max_temperature: 30.8
